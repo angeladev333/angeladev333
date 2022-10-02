@@ -4,13 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;CSSI+Scholar+%40+Google;C%2B%2B+%7C+Java+%7C+HTML%2FCSS+%7C+JavaScript;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 
-## 💁‍♀️ About me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me
 
 - 🏫 I am a `Junior` at University of Waterloo
-- 🔭 I’m currently working on personal projects ;)
+- 🔭 I’m currently learning about deep learning
 - 🌱 I’m currently studying `Computer Science` and `Business Administration`
 - 🤔 I’m looking for `an internship`
-- 📫 How to reach me: angela.xu.dev@gmail.com
-- 😄 Pronouns: `she/her`
-- ⚡ Fun fact: I play more than 5 instruments!
+- 📫 [Reach Me Here!] (angela.xu.dev@gmail.com)
+- 😄 Pronouns: she/her
+- 💖 Fun fact: I play more than 5 instruments!
 
