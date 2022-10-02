@@ -10,7 +10,7 @@
 - 🔭 I’m currently learning about deep learning
 - 🌱 I’m currently studying `Computer Science` and `Business Administration`
 - 🤔 I’m looking for `an internship`
-- 📫 [Reach Me Here!] (angela.xu.dev@gmail.com)
+- 📫 How to reach me: angela.xu.dev@gmail.com
 - 😄 Pronouns: she/her
 - 💖 Fun fact: I play more than 5 instruments!
 
