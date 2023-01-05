@@ -7,9 +7,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me
 
 - 🏫 I am a `Junior` at University of Waterloo
-- 🔭 I’m currently learning about deep learning
+- 🔭 I’m currently learning about front-end development
 - 🌱 I’m currently studying `Computer Science` and `Business Administration`
-- 🤔 I’m looking for `an internship`
+- 🤔 I’m looking for `a summer internship`
 - 📫 How to reach me: angela.xu.dev@gmail.com
 - 😄 Pronouns: she/her
 - 💖 Fun fact: I play more than 5 instruments!
