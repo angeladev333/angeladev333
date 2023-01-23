@@ -12,7 +12,7 @@
 - 🤔 I’m looking for `a summer internship`
 - 📫 How to reach me: angela.xu.dev@gmail.com
 - 😄 Pronouns: she/her
-- 💖 Fun fact: I play more than 5 instruments!
+- 💖 Fun fact: I like to explore graphic design!
 
 
 
