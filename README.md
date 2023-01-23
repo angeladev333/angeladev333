@@ -17,7 +17,10 @@
 ## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px"> Skills 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="100px">
-<img src="https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png" width="100px">
+<img src="[https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png](https://assets.stickpng.com/thumbs/58480979cef1014c0b5e4901.png)" width="100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="100px">
 
 
 
