@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me
 
-- 🏫 I am a `Junior` at University of Waterloo
+- 🏫 I am a `Sophmore` at University of Waterloo
 - 🔭 I’m currently learning about software development
 - 🌱 I’m currently studying `Computer Science`
 - 🤔 I’m looking for `a summer internship`
