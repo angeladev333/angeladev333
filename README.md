@@ -9,8 +9,9 @@
   <img src="https://visitcount.itsvg.in/api?id=angeladev333&label=Profile%20Views&color=6&icon=0&pretty=true" />
 </a>
 </p>
+[![](https://visitcount.itsvg.in/api?id=angeladev333&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-## <img src="https://64.media.tumblr.com/370c61e8c71b1b82c8085d5dbf6e43aa/e26e1f547fd0f670-6a/s500x750/7c788b61d987180b97517aee81ac2e5f747c681f.gif" width="30px"> About me
+## <img src="https://64.media.tumblr.com/370c61e8c71b1b82c8085d5dbf6e43aa/e26e1f547fd0f670-6a/s500x750/7c788b61d987180b97517aee81ac2e5f747c681f.gif" width="100px"> About me
 
 - 🏫 I am a `Sophmore` at University of Waterloo
 - 🔭 I’m currently learning about software development
@@ -66,10 +67,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
           
           -->
-          
+<br/>       
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=angeladev333&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=angeladev333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=angeladev333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
