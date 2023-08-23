@@ -4,7 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;CSSI+Scholar+%40+Google;C%2B%2B+%7C+Java+%7C+HTML%2FCSS+%7C+JavaScript;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About me
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=angeladev333&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</a>
+</p>
+
+## <img src="https://64.media.tumblr.com/370c61e8c71b1b82c8085d5dbf6e43aa/e26e1f547fd0f670-6a/s500x750/7c788b61d987180b97517aee81ac2e5f747c681f.gif" width="30px"> About me
 
 - 🏫 I am a `Sophmore` at University of Waterloo
 - 🔭 I’m currently learning about software development
@@ -61,9 +67,10 @@
           
           -->
           
-          
-          
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=angeladev333&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=angeladev333&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=angeladev333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=angeladev333&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
