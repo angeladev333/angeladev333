@@ -70,7 +70,6 @@
 <!-- GitHub Stats Section -->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats</h2>
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angeladev333&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeladev333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
@@ -82,3 +81,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=angeladev333&theme=chalk&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
