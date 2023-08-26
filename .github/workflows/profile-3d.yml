@@ -2,22 +2,22 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: 📅 Full-year calendar
     steps:
-      - uses: actions/checkout@v3
-      - uses: lowlighter/metrics@latest
+      - name: 📅 Isocalendar Fullyear
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       - name: Commit & Push
         run: |
