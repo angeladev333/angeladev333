@@ -19,7 +19,7 @@
 <h2><img src="https://64.media.tumblr.com/370c61e8c71b1b82c8085d5dbf6e43aa/e26e1f547fd0f670-6a/s500x750/7c788b61d987180b97517aee81ac2e5f747c681f.gif" width="100px"> About Me</h2>
 
 - 🏫 I am a `Computer Science Sophomore` at University of Waterloo
-- 🏆 Hack the Valley 8 First Place, Ignition Hacks 2022 Radia Perlman Award
+- 🏆 Hack the Valley 8 First Place, Hack Western Winner, Ignition Hacks 2022 Radia Perlman Award
 - 🌱 I'm currently learning about machine learning models and training!
 - 🤔 I’m looking for `a Summer 2024 internship`!
 - 📫 Reach me at: angela.xu.dev@gmail.com
