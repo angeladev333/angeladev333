@@ -21,7 +21,7 @@
 - 🏫 I am a `Computer Science Sophomore` at University of Waterloo
 - 🏆 Hack the Valley 8 First Place, Hack Western Winner, Ignition Hacks 2022 Radia Perlman Award
 - 🌱 I'm currently learning about machine learning models and training!
-- 🤔 I’m looking for `a Summer 2024 internship`!
+- 🤔 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
 - 📫 Reach me at: angela.xu.dev@gmail.com
 - 💖 Fun fact: I compose music 🎶 
 
