@@ -5,9 +5,7 @@
 
 <!-- Typing SVG animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;CSSI+Scholar+%40+Google;C%2B%2B+%7C+Java+%7C+HTML%2FCSS+%7C+JavaScript;Always+learning+new+things!" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Learning+3D+Modelling;Designing+with+a+Passion;Inquiring+about+Cyber+Security+%3C3;Reading+the+Naturals+series;Listening+to+J%26KPOP" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile visit counter -->
@@ -18,17 +16,22 @@
 <!-- About Me Section -->
 <h2><img src="https://64.media.tumblr.com/370c61e8c71b1b82c8085d5dbf6e43aa/e26e1f547fd0f670-6a/s500x750/7c788b61d987180b97517aee81ac2e5f747c681f.gif" width="100px"> About Me</h2>
 
-- 🏫 I am a `Computer Science Sophomore` at University of Waterloo
+- 🏫 `Computer Science 3rd Year` at University of Waterloo
 - 🏆 Hack the Valley 8 First Place, Hack Western Winner, Ignition Hacks 2022 Radia Perlman Award
-- 🌱 I'm currently learning about machine learning models and training!
-- 🤔 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
-- 📫 Reach me at: angela.xu.dev@gmail.com
-- 💖 Fun fact: I compose music 🎶 
+- 🌱 Always in the mood for learning!
+- 🥺 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
+- 📫 angela.xu.dev@gmail.com
+- 💖 Fun fact: I know 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
+
+<h2> Work Experience</h2>
+
+- `SWE` @ MedMe Health (Fullstack, Dev Ops)
+- `Junior Developer` @ iBlum Learning Company (Fullstack, QA)
+
 
 <!-- Skills Section -->
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30px"> Skills</h2>
 
-<!-- You can keep adding the rest of the skill icons in a similar manner -->
 <p align="center">
  <img alt="Bootstrap" width="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
