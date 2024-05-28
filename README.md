@@ -5,7 +5,7 @@
 
 <!-- Typing SVG animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Learning+3D+Modelling;Designing+with+a+Passion;Inquiring+about+Cyber+Security+%3C3;Reading+the+Naturals+series;Listening+to+J%26KPOP" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Learning+3D+Modelling;Designing+with+a+Passion;Inquiring+about+Cyber+Security+%3C3;Reading+the+Naturals+series;Listening+to+J%26KPOP" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile visit counter -->
