@@ -25,7 +25,7 @@
 
 <h2> Work Experience</h2>
 
-- `SWE` @ MedMe Health (Fullstack, Dev Ops)
+- `SWE` @ MedMe Health (Fullstack, Infra)
 - `Junior Developer` @ iBlum Learning Company (Fullstack, QA)
 
 
