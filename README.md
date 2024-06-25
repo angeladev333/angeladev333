@@ -20,7 +20,7 @@
 - 🏆 Hack the Valley 8 First Place, Hack Western Winner, Ignition Hacks 2022 Radia Perlman Award
 - 🌱 Always in the mood for learning!
 - 🥺 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
-- 📫 angela.xu.dev@gmail.com
+- 📫 angela.xu.dev@gmail.com, Toronto ON
 - 💖 Fun fact: I know 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
 
 <h2> Work Experience</h2>
