@@ -21,7 +21,7 @@
 - 🌱 Always in the mood for learning!
 - 🥺 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
 - 📫 angela.xu.dev@gmail.com, Toronto ON
-- 💖 Fun fact: I know 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
+- 💖 Fun fact: I speak 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
 
 <h2> Work Experience</h2>
 
