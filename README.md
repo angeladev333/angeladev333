@@ -16,7 +16,7 @@
 <!-- About Me Section -->
 <h2><img src="https://64.media.tumblr.com/370c61e8c71b1b82c8085d5dbf6e43aa/e26e1f547fd0f670-6a/s500x750/7c788b61d987180b97517aee81ac2e5f747c681f.gif" width="100px"> About Me</h2>
 
-- 🏫 `Computer Science 3rd Year` at University of Waterloo
+- 🏫 `Computer Science 3rd Year` at University of Waterloo, Full Stack Developer
 - 🏆 Hack the Valley 8 First Place, Hack Western Winner, Ignition Hacks 2022 Radia Perlman Award
 - 🌱 Always in the mood for learning!
 - 🥺 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
