@@ -19,7 +19,7 @@
 - 🏫 `Computer Science 3rd Year` at University of Waterloo, Full Stack Developer
 - 🏆 Hack the Valley 8 First Place, won stuff at HackMIT, Hack Western, Delta Hacks, and Ignition Hacks
 - 🌱 Always in the mood for learning!
-- 🥺 I’m looking for `a Winter 2025 internship` (Jan - Apr)!
+- 🥺 I’m looking for `a Fall 2025 internship` (Sep - Dec)!
 - 📫 angela.xu.dev@gmail.com, Toronto ON
 - 💖 Fun fact: I speak 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
 
