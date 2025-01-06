@@ -25,8 +25,8 @@
 
 <h2> Work Experience</h2>
 
-- `SWE` @ MedMe Health (Fullstack, Infra)
-- `Junior Developer` @ iBlum Learning Company (Fullstack, QA)
+- `SWE (8M)` @ MedMe Health (Fullstack, Infra, AI)
+- `Junior Developer (4M)` @ iBlum Learning Company (Fullstack, QA)
 
 
 <!-- Skills Section -->
