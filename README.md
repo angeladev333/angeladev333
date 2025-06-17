@@ -24,7 +24,8 @@
 - 💖 Fun fact: I speak 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
 
 <h2> Work Experience</h2>
-- `SWE` @ Bloomberg 
+
+-  `SWE` @ Bloomberg 
 - `SWE (8M)` @ MedMe Health (Fullstack, Infra, AI)
 - `Junior Developer (4M)` @ iBlum Learning Company (Fullstack, QA)
 
