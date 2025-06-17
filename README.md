@@ -25,8 +25,8 @@
 
 <h2> Work Experience</h2>
 
--  `SWE` @ Bloomberg 
-- `SWE (8M)` @ MedMe Health (Fullstack, Infra, AI)
+-  `SWE Intern` @ Bloomberg 
+- `SWE Intern (8M)` @ MedMe Health (Fullstack, Infra, AI)
 - `Junior Developer (4M)` @ iBlum Learning Company (Fullstack, QA)
 
 
