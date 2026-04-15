@@ -18,8 +18,8 @@
 
 - 🏫 `Computer Science 4th Year` at University of Waterloo, AI specialization + Computational Mathematics minor
 - 🏆 Hack the Valley 8 First Place, won streams at HackMIT, Hack Western, Delta Hacks, and Ignition Hacks
-- 🌱 Exchange student at Tokyo Science, Computing department
-- 🥺 I’m looking for `a Summer 2026 internship` (May - Aug)!
+- 🌱 Exchange student at Tokyo Science and CityUHK
+- 🥺 I’m looking for `a Fall 2026 internship` (Sept - Dec)!
 - 📫 angela.xu.dev@gmail.com, Toronto ON
 - 💖 Fun fact: I speak 5+ languages (English, Mandarin & Cantonese, French, Japanese, Java, Python, 🧐...)
 
